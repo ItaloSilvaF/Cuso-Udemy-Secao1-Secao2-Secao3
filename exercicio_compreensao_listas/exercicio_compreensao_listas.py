@@ -11,6 +11,3 @@ lista = [string[num:num + 10] for num in range(0, len(string), 10)]
 retorno = '.'.join(lista)
 
 print(retorno)
-
-
-
