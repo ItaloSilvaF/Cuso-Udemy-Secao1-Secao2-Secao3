@@ -4,7 +4,7 @@ contadores
 acumuladores
 """
 
-contador = int(input('Digite um número menor ou igudl que 100, para ser contado apartir dele até 100: '))
+contador = int(input('Digite um número menor ou igul que 100, para ser contado apartir dele até 100: '))
 acumulador = int(input('Digite um valor de acomulador: '))
 
 while contador <= 100:
