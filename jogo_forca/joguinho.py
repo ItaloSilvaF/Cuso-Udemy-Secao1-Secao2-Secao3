@@ -11,7 +11,6 @@ while True:
     digitadas = []
     digitadas_erradas = []
     print('\n' * 1000)
-    print("oiiii")
 
     while True:
 
