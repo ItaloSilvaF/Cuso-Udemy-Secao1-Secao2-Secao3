@@ -15,7 +15,7 @@ while True:
     while True:
 
         if chances <= 0:
-            print('Você Perdeu !!! :(')
+            print('Você Perdeu !!! :( ')
             print(f'A palavra a ser adivinhada era "{palavra}".')
             break
         letra = input('\nDigite uma letra: ')
