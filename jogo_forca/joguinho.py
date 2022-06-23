@@ -10,7 +10,8 @@ while True:
     chances = 7
     digitadas = []
     digitadas_erradas = []
-    print('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
+    print('\n' * 1000)
+    print("oiiii")
 
     while True:
 

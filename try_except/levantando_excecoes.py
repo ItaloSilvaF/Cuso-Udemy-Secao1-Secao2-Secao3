@@ -10,7 +10,7 @@ def divide(n1, n2):
 
 
 try:
-    print(divide(2,0))
+    print(divide(2, 0))
 except ValueError as erro:
     print('Você está tentando dividir por 0.')
     print(f'Log: {erro}')

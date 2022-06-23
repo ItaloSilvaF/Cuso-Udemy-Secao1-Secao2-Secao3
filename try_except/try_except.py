@@ -18,4 +18,4 @@ finally:
     print('Finalmente.')
 
 print(a)
-print('Código continua...') # mesmo que tenha um erro dentro de try, o programa continua.
+print('Código continua...')  # mesmo que tenha um erro dentro de try, o programa continua.
