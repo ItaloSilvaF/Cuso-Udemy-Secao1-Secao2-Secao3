@@ -16,7 +16,7 @@ if 18 <= idade <= 35:
         respostatel = input(f'Seu número de telefone é {telefone}? ')
 
         if 's' in respostatel:
-            print('Ok, ligaremos assim que possivel')
+            print('Ok, ligaremos assim que possivel.')
 
         elif 'n' in resposta:
             print('Que pena, vamos começar do início.')
