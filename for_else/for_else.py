@@ -11,10 +11,10 @@ for numero in listanum:
         resultado = num % 2
 
         if resultado == 0:
-            print(f'{num} é um número par')
+            print(f'{num} é um número par.')
             break
         else:
-            print(f'{num} é um número impar')
+            print(f'{num} é um número impar.')
             break
 else:
     print('Você não digitou um número valido.')
